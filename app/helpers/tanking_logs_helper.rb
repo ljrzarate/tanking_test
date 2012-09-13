@@ -1,0 +1,2 @@
+module TankingLogsHelper
+end
